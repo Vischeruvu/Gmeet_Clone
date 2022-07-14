@@ -9,7 +9,7 @@
 - [@Vischeruvu](https://github.com/Vischeruvu)
 - [@Bhargav-SH](https://github.com/Bhargav-SH)
 - [@swe84](https://github.com/swe84)
-- [Boring-ai](https://github.com/Boring-ai)
+- [@Boring-ai](https://github.com/Boring-ai)
 
 
 ## Features
