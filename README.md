@@ -8,6 +8,7 @@
 ## Project team
 - [@Vischeruvu](https://github.com/Vischeruvu)
 - [@Bhargav-SH](https://github.com/Bhargav-SH)
+- [@swe84](https://github.com/swe84)
 
 
 ## Features
