@@ -8,8 +8,8 @@
 Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet-waters-11721.herokuapp.com/)
 
 ## Project team
-- [@IamAbhi12](https://github.com/IamAbhi12)
-- [@YashGargIND](https://github.com/YashGargIND)
+- [@Vischeruvu](https://github.com/Vischeruvu)
+- [@Bhargav-SH](https://github.com/Bhargav-SH)
 - [@Avichal1307](https://github.com/Avichal1307)
 - [@yaswanthoo7](https://github.com/yaswanthoo7)
 - [@RC9192](https://github.com/RC9192)
