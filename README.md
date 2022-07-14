@@ -31,12 +31,7 @@ Socket.io, a popular javascript library is used in this project to facilitate re
 
 ## Run Locally
 
-Clone the project
 
-```bash
-  git clone https://github.com/IamAbhi12/gmeet-clone
-```
-or download the zip file.
 
 Go to the project directory and install dependencies
 
