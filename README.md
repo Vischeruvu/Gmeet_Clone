@@ -10,9 +10,7 @@ Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet
 ## Project team
 - [@Vischeruvu](https://github.com/Vischeruvu)
 - [@Bhargav-SH](https://github.com/Bhargav-SH)
-- [@Avichal1307](https://github.com/Avichal1307)
-- [@yaswanthoo7](https://github.com/yaswanthoo7)
-- [@RC9192](https://github.com/RC9192)
+
 
 ## Features
 
@@ -52,9 +50,4 @@ Start the server
 ## Screenshots
 Video and Chat 
 
-<img src="https://user-images.githubusercontent.com/92078486/178569938-c1cd8040-27e7-4609-b25a-cc617dae25ba.png" alt="Video on" width="400"/> <img src="https://user-images.githubusercontent.com/92078486/178569957-2f16f898-7d5c-4240-ab92-da8a50611c87.png" alt="Video off" width="400"/>
-
-Whiteboard
-
-<img src="https://user-images.githubusercontent.com/92078486/178570057-074128df-8cc0-4464-850d-f2716afb4014.png" alt="Whiteboard" width="400"/>
 
