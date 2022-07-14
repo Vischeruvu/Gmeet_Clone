@@ -47,7 +47,5 @@ Inside the script.js file, change the port number ( e.g. 3000. It's 443 by defau
 
 Start the server
 
-## Screenshots
-Video and Chat 
 
 
