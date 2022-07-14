@@ -10,6 +10,8 @@
 - [@Bhargav-SH](https://github.com/Bhargav-SH)
 - [@swe84](https://github.com/swe84)
 - [@Boring-ai](https://github.com/Boring-ai)
+- [@balaji-tbg](https://github.com/balaji-tbg)
+
 
 
 ## Features
