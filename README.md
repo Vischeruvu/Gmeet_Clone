@@ -4,8 +4,6 @@
  A clone of the popular website GMeet which is a video conferencing service from Google.
 
 
-## Website
-Try Video Meeting here [https://quiet-waters-11721.herokuapp.com/](https://quiet-waters-11721.herokuapp.com/)
 
 ## Project team
 - [@Vischeruvu](https://github.com/Vischeruvu)
